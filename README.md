@@ -35,10 +35,4 @@
     - **https://instagram.com/the.physics.misfit**
 - Fun fact **Grey is a Particle Physicist**
 
- ## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/okeyogrey/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=okeyogrey#version3"/>
-  </a>
-</p>
+ ## FROM FREEDOM CAME ELEGANCE
