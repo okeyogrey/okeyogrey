@@ -15,7 +15,11 @@
 - **BSc Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=okeyogrey&card_width=400)](https://git.io/streak-stats) ![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=whitecard_width=400) ![Grey's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=okeyogrey&layout=compact&hide=smarty) <br>
+| [![GitHub Streak](https://streak-stats.demolab.com?user=okeyogrey&card_width=400)](https://git.io/streak-stats) | ![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=whitecard_width=400) | ![Grey's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=okeyogrey&layout=compact&hide=smarty) <br>
+
+| ![Grey Manuel's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=springmeyer&layout=compact&hide=smarty) |  ![Grey Manuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=formidablae&theme=algolia) |
+| --- | --- |
+
 <br>
 
 **Current status**
