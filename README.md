@@ -33,6 +33,6 @@
 - How to reach me:
     - **https://wa.me/254706290861**
     - **https://instagram.com/the.physics.misfit**
-- Fun fact **Grey is a Particle Physicist**
+-Random Proverb: **A baboon does not climb an iroco tree to hide it's buttocks**
 
  # L'CHAIM
