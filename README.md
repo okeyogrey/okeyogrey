@@ -16,7 +16,7 @@
 - A Cyber Security enthusiast and a linux crusader
 
 
-| [![Grey Manuel's GitHub Streak](https://streak-stats.demolab.com?user=okeyogrey&card_width=400)] |  ![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=whitecard_width=400) |
+| ![Grey Manuel's GitHub Streak](https://streak-stats.demolab.com?user=okeyogrey&card_width=400) |  ![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=whitecard_width=400) |
 | --- | --- |
 
 <br>
