@@ -15,7 +15,7 @@
 - **BSc Computer Science**.
 - A Cyber Security enthusiast and a linux crusader
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=okeyogrey)](https://git.io/streak-stats)![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=white width=50%) <br>![Grey's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=okeyogrey&layout=compact&hide=smarty) <br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=okeyogrey)](https://git.io/streak-stats)![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=white&width=50%) <br>![Grey's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=okeyogrey&layout=compact&hide=smarty) <br>
 <br>
 
 **Current status**
