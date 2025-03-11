@@ -16,7 +16,7 @@
 - A Cyber Security enthusiast and a linux crusader
 
 
-| ![Grey Manuel's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=springmeyer&layout=compact&hide=smarty) |  ![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=whitecard_width=400) |
+| ![Grey Manuel's Github Stats](https://cheesits456-readme-stats.vercel.app/api/top-langs?username=okeyogrey&layout=compact&hide=smarty) |  ![Grey's Stats 2](https://github-readme-stats.vercel.app/api?username=okeyogrey&show_icons=true&theme=whitecard_width=400) |
 | --- | --- |
 
 <br>
